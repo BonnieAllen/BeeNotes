@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C306CF20C860E7F5D0ECF7361D7B63B3E98FBAC2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3BFDE44C64215BFC4BF49B811F4819A04853894" : 0,
+    "C306CF20C860E7F5D0ECF7361D7B63B3E98FBAC2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5D4EFFAC-FB71-4A25-9BB2-FD394B59A6DC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3BFDE44C64215BFC4BF49B811F4819A04853894" : "",
+    "C306CF20C860E7F5D0ECF7361D7B63B3E98FBAC2" : "BeeNotes\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BeeNotes",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BeeNotes\/BeeNotes.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:BonnieAllen\/ios-static-analysis-exercises-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3BFDE44C64215BFC4BF49B811F4819A04853894"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:BonnieAllen\/BeeNotes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C306CF20C860E7F5D0ECF7361D7B63B3E98FBAC2"
+    }
+  ]
+}
